@@ -12,6 +12,7 @@
   "dependencies": {
     "@cyclic.sh/s3fs": "^1.2.8",
     "dotenv": "^16.0.3",
+    "googleapis": "^112.0.0",
     "stream": "^0.0.2"
   }
 }
